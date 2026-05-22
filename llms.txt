@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Brantford
+
+> Geotechnical engineering services in Brantford, Canada.
+
+## Services
+- [Anchors](https://brantford.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://brantford.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://brantford.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://brantford.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://brantford.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://brantford.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://brantford.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://brantford.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://brantford.geotechnicalengineering.co/footings/)
+- [Foundations](https://brantford.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://brantford.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://brantford.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://brantford.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://brantford.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://brantford.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://brantford.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://brantford.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://brantford.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://brantford.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://brantford.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://brantford.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://brantford.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://brantford.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://brantford.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://brantford.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://brantford.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://brantford.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://brantford.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://brantford.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://brantford.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://brantford.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://brantford.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://brantford.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://brantford.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://brantford.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://brantford.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://brantford.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://brantford.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://brantford.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://brantford.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Brantford, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
